@@ -3453,8 +3453,9 @@ details-disclosure > details {
   .animate--hover-vertical-lift .button:not([disabled]).button--secondary:hover:after {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
-}
-.gradient {
+  .gradient {
   color: aqua;
 }
+}
+
 
